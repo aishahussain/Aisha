@@ -17,6 +17,8 @@ target and attract users to join camp china for the summer.
 
 For this particular website development project, i am aiming to build an appropriate website that invasion require for their particular camp named camp china that isn't yet available to users on their Camp.co.uk website.
 
+## Constraints 
 
+During the course of building a website for the company called invasion there comes with many constraints that hinder the process of contruction. 
 
 
