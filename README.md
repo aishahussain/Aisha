@@ -27,3 +27,7 @@ However, during the course of building the camp china website it has also come w
 
 ## Nature of interactivity 
 My camp china website that will be created for invasion will include a range of interactivity. The reason behind this thought process is because my website will enable users to login into their account as well as allow users to join the camp china campus through a  certain button that will be placed on the home page. 
+
+## Complexity of website 
+
+I have found that my camp china wevbsite is quite complex to a certain degree as i have included a few complex features in order to improve the success of the prototype being created. 
