@@ -9,4 +9,11 @@ This is a markdown file.
 
 ## What are you doing 
 
-In addition, for this website development project I am going to be creating a website for a particular company called "Invasion" and my main focus will be on a particular camp called camp China. For this project management unit I am also set out to create a design for the camp China website as well as put together all the requirements that ae necessary for this particular website that has been assigned to me.  Lastly, I have to take into consideration factors that may affect creating the website for camp china which could include time, limited resources and money. 
+To begin with, i am going to be creating a particular prototype for a company called "Invasion" and my main focus will be building a
+website for one of the many Camps named Camp China and the reason for this being is because Invasion require a built up website that will 
+target and attract users to join camp china for the summer. 
+
+## What are you aiming to achieve
+
+For this particular website development project, i am aiming to build an appropriate website that invasion require for their particualar camp named camp china. 
+
