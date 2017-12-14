@@ -23,4 +23,7 @@ During the course of building a website for the company called invasion there co
 
 ## Benefits 
 
-However, during the course of building the camp china website ther also comes with many benefits and one the many incldue 
+However, during the course of building the camp china website it has also come with many benefits and one the many is that i have been able to use my recent web developmement skills in order for my camp china website to be as successful as possible.
+
+## Nature of interactivity 
+My camp china website that will be created for invasion will include a range of interactivity. The reason behind this thought process is because my website will enable users to login into their account as well as allow users to join the camp china campus through a  certain button that will be placed on the home page. 
