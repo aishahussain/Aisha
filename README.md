@@ -21,4 +21,6 @@ For this particular website development project, i am aiming to build an appropr
 
 During the course of building a website for the company called invasion there comes with many constraints that hinder the process of contruction. One of the many constraints include time and the reason for this is because i have been given a specific deadline as to when the website should be completed by which therefore means that time is very limited as there is only a short amount of space in order for me to complete the camp china website. 
 
+## Benefits 
 
+However, during the course of building the camp china website ther also comes with many benefits and one the many incldue 
